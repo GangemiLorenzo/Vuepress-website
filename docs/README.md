@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /desk.png
+heroImage: /logo.svg
 actionText: Try the app
 actionLink: https://web-wallet-manager.firebaseapp.com/
 features:
