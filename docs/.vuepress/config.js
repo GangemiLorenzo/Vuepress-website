@@ -7,12 +7,12 @@ module.exports = {
         },
         '/it/': {
             lang: 'it',
-            title: 'Gestore Portafoglio di Polizze',
+            title: 'Insurance Portfolio Manager',
             description: 'Il sito ufficiale'
         }
     },
     head: [
-        ['link', { rel: 'icon', href: `/logo.svg` }]
+        ['link', { rel: 'icon', href: `/favicon.png` }]
     ],
     themeConfig:{
         //navbar: false,
