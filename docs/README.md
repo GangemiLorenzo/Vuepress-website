@@ -4,7 +4,7 @@ heroImage: /desk.png
 actionText: Try the app
 actionLink: https://web-wallet-manager.firebaseapp.com/
 features:
-- title: Gestisci il tuo portagoglio da un unico posto
+- title: Gestisci il tuo portafoglio di polizze
   details: Dimenticati dei foglio sparsi per l'ufficio e inizia caricare le tue polizze qui!
 - title: Tieni traccia dei tuoi incassi senza fatica
   details: Web Wallet Manager si occuperà di tenere i conti in ordine per te.
