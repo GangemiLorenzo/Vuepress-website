@@ -1,8 +1,8 @@
 ---
-title: guide
+title: Documentazione
 ---
 
-# GUIDE
+# Guida
 ## Accesso
 Per eseguire l'iscrizione e successivamente l'accesso, la app mette a disposizione un form di login dalla HomePage.
 
