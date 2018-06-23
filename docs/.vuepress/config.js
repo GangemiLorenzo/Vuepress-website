@@ -29,6 +29,10 @@ module.exports = {
                 { 
                     text: 'Documentation', 
                     link: '/documentation/' 
+                },
+                { 
+                    text: 'Terms and conditions', 
+                    link: '/termini/' 
                 }
               ],
               sidebar: 'auto'
@@ -45,6 +49,10 @@ module.exports = {
                 { 
                     text: 'Documentazione', 
                     link: '/it/documentation/' 
+                },
+                { 
+                    text: 'Termini e condizioni', 
+                    link: '/it/termini/' 
                 }
               ],
               sidebar: 'auto'
